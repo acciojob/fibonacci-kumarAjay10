@@ -1,5 +1,5 @@
 function fibonacci(num) {
-// your code here
+return num;
 }
-
+fibonacci(num)
 module.exports = fibonacci;
